@@ -26,6 +26,13 @@ FaceShade OpenCV is a fun and creative computer vision project that adds stylish
 - NumPy – for array manipulation  
 
 ---
+## Code
+
+The implementation is available in the Jupyter Notebook:
+
+- notebooks/main_sunglass.ipynb
+
+---
 
 ## How It Works
 
